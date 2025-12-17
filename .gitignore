@@ -1,0 +1,21 @@
+# Unity auto-generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# External assets (NOT in Git)
+Assets/ExternalAssets/
+Assets/Art/
+Assets/Audio/
+Assets/Models/
+Assets/Animations/
+
+# Addressables output
+ServerData/
+
+# OS
+.DS_Store
+Thumbs.db
